@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ignore bundler config
 /.bundle
 
@@ -15,23 +14,3 @@ doc/
 *~
 .project
 .DS_Store
-=======
-*.gem
-*.rbc
-.bundle
-.config
-coverage
-InstalledFiles
-lib/bundler/man
-pkg
-rdoc
-spec/reports
-test/tmp
-test/version_tmp
-tmp
-
-# YARD artifacts
-.yardoc
-_yardoc
-doc/
->>>>>>> 6ab08f350d99885fc8720365c22adab8dd0a85cc
